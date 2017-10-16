@@ -9,7 +9,3 @@ Pin 8 = buzzer
 Pin 12 = push button
 
 Pin 3,4,5 = LED each
-
-## How to compile code?
-
-(Screenshot)[how to compile sketch.png]
